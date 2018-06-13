@@ -1,0 +1,27 @@
+[submodule "/home/predatorian/.vim/bundle/vim-sensible"]
+        path = /home/predatorian/.vim/bundle/vim-sensible
+        url = https://github.com/tpope/vim-sensible.git
+[submodule "/home/predatorian/.vim/bundle/vim-airline"]
+        path = /home/predatorian/.vim/bundle/vim-airline
+        url = https://github.com/vim-airline
+[submodule "/home/predatorian/.vim/bundle/vim-fugitive"]
+        path = /home/predatorian/.vim/bundle/vim-fugitive
+        url = https://github.com/tpope/vim-fugitive
+[submodule "/home/predatorian/.vim/bundle/nerdtree"]
+        path = /home/predatorian/.vim/bundle/nerdtree
+        url = https://github.com/scrooloose/nerdtree.git
+[submodule "/home/predatorian/.vim/bundle/vim-multiple-cursors"]
+        path = /home/predatorian/.vim/bundle/vim-multiple-cursors
+        url = https://github.com/terryma/vim-multiple-cursors
+[submodule "/home/predatorian/.vim/bundle/ale"]
+        path = /home/predatorian/.vim/bundle/ale
+        url = https://github.com/w0rp/ale
+[submodule "/home/predatorian/.vim/bundle/vim-workspace"]
+        path = /home/predatorian/.vim/bundle/vim-workspace
+        url = https://github.com/thaerkh/vim-workspace
+[submodule "/home/predatorian/.vim/bundle/vim-buffergator"]
+        path = /home/predatorian/.vim/bundle/vim-buffergator
+        url = https://github.com/jeetsukumaran/vim-buffergator
+[submodule "/home/predatorian/.vim/bundle/nerdtree-git-plugin"]
+        path = /home/predatorian/.vim/bundle/nerdtree-git-plugin
+        url = https://github.com/xuyuanp/nerdtree-git-plugin
