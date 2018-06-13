@@ -1,7 +1,10 @@
 " .vimrc
 " Phillip Dudley (Predatorian3@gmail.com)
-" Shamlessly stolen from: 
+" Shamlessly stolen from:
 "   https://dougblack.io/words/a-good-vimrc.html
+
+" Load Pathogen
+execute pathogen#infect()
 
 " Enable syntax processing
 syntax enable
@@ -15,6 +18,8 @@ set tabstop=2
 set softtabstop=2
 " Makes TABs spaces instead
 set expandtab
+" Make indentations smarter
+set shiftwidth=2
 
 " Show Line Numbers
 set number
@@ -40,7 +45,7 @@ set showmatch
 set hlsearch
 
 " Load Pathogen
-execute pathogen#infect()
+"execute pathogen#infect()
 
 " vim-airline Tabline
 let g:airline#extensions#tabline#enabled = 1
