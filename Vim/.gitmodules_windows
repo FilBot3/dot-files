@@ -1,5 +1,5 @@
 [submodule "/c/Users/Phillip/vimfiles/bundle/syntastic"]
-	path = C:/Users/Phillip/vimfiles/bundle/syntastic
+  path = C:/Users/Phillip/vimfiles/bundle/syntastic
   url = https://github.com/vim-syntastic/syntastic.git
 [submodule "/c/Users/Phillip/vimfiles/bundle/vim-sensible"]
   path = C:/Users/Phillip/vimfiles/bundle/vim-sensible
