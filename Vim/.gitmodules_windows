@@ -1,0 +1,33 @@
+[submodule "/c/Users/Phillip/vimfiles/bundle/syntastic"]
+	path = C:/Users/Phillip/vimfiles/bundle/syntastic
+  url = https://github.com/vim-syntastic/syntastic.git
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-sensible"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-sensible
+  url = https://github.com/tpope/vim-sensible.git
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-airline"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-airline
+  url = https://github.com/vim-airline/vim-airline
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-fugitive"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-fugitive
+  url = https://github.com/tpope/vim-fugitive
+[submodule "/c/Users/Phillip/vimfiles/bundle/nerdtree"]
+  path = C:/Users/Phillip/vimfiles/bundle/nerdtree
+  url = https://github.com/scrooloose/nerdtree.git
+[submodule "/c/Users/Phillip/vimfiles/bundle/nerdtree-git-plugin"]
+  path = C:/Users/Phillip/vimfiles/bundle/nerdtree-git-plugin
+  url = https://github.com/xuyuanp/nerdtree-git-plugin
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-multiple-cursors"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-multiple-cursors
+  url = https://github.com/terryma/vim-multiple-cursors
+# [submodule "/c/Users/Phillip/vimfiles/bundle/ale"]
+#   path = C:/Users/Phillip/vimfiles/bundle/ale
+#   url = https://github.com/w0rp/ale
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-session"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-session
+  url = https://github.com/xolox/vim-session.git
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-misc"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-misc
+  url = https://github.com/xolox/vim-misc.git
+[submodule "/c/Users/Phillip/vimfiles/bundle/vim-go"]
+  path = C:/Users/Phillip/vimfiles/bundle/vim-go
+  url = https://github.com/fatih/vim-go.git
